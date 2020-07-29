@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    border: 2px solid black;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+#firstPara {
+    background-color: green;
+}
+
+#secondPara {
+    background-color: yellow;
+}
+
+#thirdPara {
+    background-color: teal;
+}
+
+#spacing {
+    margin-bottom: 75px;
+}
