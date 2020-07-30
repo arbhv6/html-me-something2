@@ -18,18 +18,22 @@ h2 {
     text-align: center;
 }
 
-#firstPara {
+.firstPara {
     background-color: green;
 }
 
-#secondPara {
+.secondPara {
     background-color: yellow;
 }
 
-#thirdPara {
+.thirdPara {
     background-color: teal;
 }
 
-#spacing {
+.spacing {
     margin-bottom: 75px;
+}
+
+#favorite {
+    text-transform: uppercase;
 }
